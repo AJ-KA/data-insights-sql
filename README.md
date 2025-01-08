@@ -16,4 +16,4 @@ This project answers the following business questions:
    -  What is the revenue in US$ by movie rental?  
 
 ## Data and Tools used
-The dataset includes information about movies (e.g., titles, genres, rental durations), customers (e.g., location, payment history), payments and rentals (e.g., transaction amounts, dates). SQL was used for querying and analyzing the data, pPstgreSQL is the relational database management system.
+The dataset includes information about movies (e.g., titles, genres, rental durations), customers (e.g., location, payment history), payments and rentals (e.g., transaction amounts, dates). SQL was used for querying and analyzing the data, PostgreSQL is the relational database management system.
